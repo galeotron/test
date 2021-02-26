@@ -4,7 +4,6 @@ using namespace std;
 
 int main() {
 	cout << "Hello" << endl;
-
-	void ez();
+	ez();
 	return 0;
 }

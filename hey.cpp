@@ -4,4 +4,5 @@ using namespace std;
 
 void ez() {
 	cout << "hey" << endl;
+	cout << "hey from github" << endl;
 }
